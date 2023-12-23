@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Snowball0204
+- 👀 I’m interested in Modding
+- 🌱 I’m currently learning C++
